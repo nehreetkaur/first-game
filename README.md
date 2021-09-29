@@ -40,14 +40,14 @@ JAVASCRIPT
 
 
 # Resources-Reffered
-[Color-Pallete-Scheme]("https://coolors.co/palettes/trending")
+[Color-Pallete-Scheme](https://coolors.co/palettes/trending)
 
-[FreecodeCamp]("https://www.youtube.com/watch?v=ZniVgo8U7ek")
+[FreecodeCamp](https://www.youtube.com/watch?v=ZniVgo8U7ek)
 
 ## Github-Repository
 
-[Github-Repository]("https://github.com/nehreetkaur/first-game")
+[Github-Repository](https://github.com/nehreetkaur/first-game)
 
 ## Github-Deployed-Link
-[GITHUB-DEPLOYED-LINK]("https://nehreetkaur.github.io/first-game/")
+[GITHUB-DEPLOYED-LINK](https://nehreetkaur.github.io/first-game/)
  
