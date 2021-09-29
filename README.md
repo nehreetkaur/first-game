@@ -4,11 +4,11 @@
 
 
 
-[Output](#Output)
+[OUTPUT](#Output)
 
 [TEXT-EDITOR](#Text-Editor)
 
-[Developed-using](#Developed-using)
+[DEVELOPED-Using](#Developed-using)
 
 [RESOURCES-REFFERED](#Resources-Reffered)
 
